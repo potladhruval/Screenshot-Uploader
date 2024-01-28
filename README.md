@@ -7,6 +7,7 @@ Screenshot Uploader 6.0 is a Python-based application designed to automate the p
 - **Interactive GUI**: Built with `tkinter` for ease of use.
 - **Screenshot Capturing**: Utilizes `PIL` (Python Imaging Library) for capturing screenshots.
 - **Google Drive Integration**: Uploads screenshots to a designated Google Drive folder.
+- **Clipboard Link**: Automatically copies the link of the uploaded screenshot to the clipboard for easy sharing.
 - **Asynchronous Processing**: Implements threading for efficient operation.
 - **Service Account Authentication**: Uses Google service account for secure API interactions.
 
